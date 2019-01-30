@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/poi-4.0.0/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/poi-4.0.0/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/poi-4.0.0/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/poi-4.0.0/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/poi-4.0.0/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/poi-4.0.0/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/poi-4.0.0/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/poi-4.0.0/jaxb-impl-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/poi-4.0.0/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/poi-4.0.0/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/poi-4.0.0/poi-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/poi-4.0.0/poi-examples-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/poi-4.0.0/poi-excelant-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/poi-4.0.0/poi-ooxml-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/poi-4.0.0/poi-ooxml-schemas-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/poi-4.0.0/poi-scratchpad-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/extentreports-java-3.1.5/extentreports-3.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/extentreports-java-3.1.5/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/extentreports-java-3.1.5/lib/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/extentreports-java-3.1.5/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/extentreports-java-3.1.5/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/extentreports-java-3.1.5/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/extentreports-java-3.1.5/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/extentreports-java-3.1.5/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/extentreports-java-3.1.5/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/extentreports-java-3.1.5/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/extentreports-java-3.1.5/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/extentreports-java-3.1.5/lib/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/extentreports-java-3.1.5/lib/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/JARs for xlsx/extentreports-java-3.1.5/lib/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/jars/selenium-server-standalone-2.52.0.jar"/>
+	<classpathentry kind="lib" path="C:/jars/testng-6.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/jars/commons-email-1.5/commons-email-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/jars/commons-email-1.5/commons-email-1.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/jars/commons-email-1.5/commons-email-1.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/jars/commons-email-1.5/commons-email-1.5-tests.jar"/>
+	<classpathentry kind="lib" path="C:/jars/commons-email-1.5/commons-email-1.5-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/jars/javamail-1.4.5/mail.jar"/>
+	<classpathentry kind="lib" path="C:/jars/javamail-1.4.5/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/jars/javamail-1.4.5/lib/imap.jar"/>
+	<classpathentry kind="lib" path="C:/jars/javamail-1.4.5/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/jars/javamail-1.4.5/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/jars/javamail-1.4.5/lib/smtp.jar"/>
+	<classpathentry kind="lib" path="C:/Jarsss/gmail4j-0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Jarsss/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jarsss/mail-1.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Jarsss/rome-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Jarsss/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
